@@ -65,5 +65,9 @@
   "name": "strapi-plugin-revalidation-button",
   "description": "Button for on-demand revalidation",
   "license": "MIT",
-  "author": "jamc96 <jamc.mejia@gmail.com>"
+  "author": "jamc96 <jamc.mejia@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamc96/strapi-plugin-revalidation-button"
+  }
 }
